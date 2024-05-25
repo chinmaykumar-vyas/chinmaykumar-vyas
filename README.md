@@ -2,9 +2,10 @@
 
 I'm Chinmay!
 
-## Projects
+<!--# Projects
 
 * TBD
+-->
 
 ## Contact Me
 
