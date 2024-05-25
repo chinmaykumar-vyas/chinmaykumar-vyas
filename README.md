@@ -1,4 +1,14 @@
-### Hi there 👋 I'm Chinmay Vyas
+### Hi there 
+
+I'm Chinmay!
+
+## Projects
+
+* TBD
+
+## Contact Me
+
+You can reach out to me at <vyaschinmay70@yahoo.in>
 
 <!--
 **chinmaykumar-vyas/chinmaykumar-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
