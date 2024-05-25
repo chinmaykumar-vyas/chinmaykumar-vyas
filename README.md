@@ -8,7 +8,7 @@ I'm Chinmay!
 
 ## Contact Me
 
-You can reach out to me at <vyaschinmay70@yahoo.in>
+You can reach out to me at <vyaschinmay70@yahoo.in>.
 
 <!--
 **chinmaykumar-vyas/chinmaykumar-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
