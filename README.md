@@ -1,7 +1,3 @@
 ## Hello!
 
-I'm Chinmay, a cloud architect and developer exploring the realms of Cloud, DevOps, and automation. 
-
-Currently, tinkering with Kubernetes and GitHub Actions for seamless workflows. Also, Learning and expanding skillsets across domains including, artificial intelligence (AI), machine learning (ML), and Go programming.
-
-Let's connect and collaborate on exciting projects! You can reach me on [Linkedin](https://www.linkedin.com/in/chinmaykumar-vyas/).
+I'm Chinmay, a cloud architect and developer exploring the realms of Cloud, DevOps, and automation. Let's connect and collaborate on exciting projects! You can reach me on [Linkedin](https://www.linkedin.com/in/chinmaykumar-vyas/).
